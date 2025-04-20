@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d964e99-c297-4b90-9d22-c0b5b929c11f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWorkJava.iml" afterDir="false" />
-    </list>
+    <list default="true" id="7d964e99-c297-4b90-9d22-c0b5b929c11f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2vuPQlrpt5FsxDuf73UTWHhgZis" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Pattern1.executor": "Run",
+    "Application.mergeSort.executor": "Run",
     "Application.rec_AllInstancesOfanElement.executor": "Run",
     "Application.rec_Bubble.executor": "Run",
     "Application.rec_LinearSearch.executor": "Run",
@@ -77,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744991974428</updated>
       <workItem from="1744991975487" duration="11227000" />
+      <workItem from="1745077932005" duration="8152000" />
     </task>
     <servers />
   </component>
