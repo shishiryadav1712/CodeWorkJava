@@ -31,7 +31,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FixUpperCaseLetter.executor": "Run",
+    "Application.MaxMin.executor": "Debug",
     "Application.Pattern1.executor": "Run",
+    "Application.Rec_BinSearch.executor": "Run",
+    "Application.Rec_GeekOnacci.executor": "Run",
+    "Application.Rec_Print1ToN.executor": "Run",
+    "Application.Rec_ReverseString.executor": "Run",
+    "Application.Rec_StringLength.executor": "Debug",
+    "Application.Rec_fibboNumber.executor": "Run",
+    "Application.SumTriangle.executor": "Debug",
+    "Application.mergeInPlace.executor": "Run",
     "Application.mergeSort.executor": "Run",
     "Application.rec_AllInstancesOfanElement.executor": "Run",
     "Application.rec_Bubble.executor": "Run",
@@ -71,11 +81,46 @@
       <option name="presentableId" value="Default" />
       <updated>1744991974428</updated>
       <workItem from="1744991975487" duration="11227000" />
-      <workItem from="1745077932005" duration="8152000" />
+      <workItem from="1745077932005" duration="10476000" />
+      <workItem from="1745165001525" duration="622000" />
+      <workItem from="1745166773662" duration="7733000" />
+      <workItem from="1745178758450" duration="2968000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/assignment/MaxMin.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/assignment/Rec_Print1ToN.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/assignment/Rec_GeekOnacci.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
