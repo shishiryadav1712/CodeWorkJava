@@ -36,9 +36,12 @@
     "Application.Pattern1.executor": "Run",
     "Application.Rec_BinSearch.executor": "Run",
     "Application.Rec_GeekOnacci.executor": "Run",
+    "Application.Rec_NumSum.executor": "Run",
+    "Application.Rec_PowOf4.executor": "Run",
     "Application.Rec_Print1ToN.executor": "Run",
     "Application.Rec_ReverseString.executor": "Run",
     "Application.Rec_StringLength.executor": "Debug",
+    "Application.Rec_SumNos.executor": "Run",
     "Application.Rec_fibboNumber.executor": "Run",
     "Application.SumTriangle.executor": "Debug",
     "Application.mergeInPlace.executor": "Run",
@@ -53,6 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Shishir yadav/Desktop/playground/Java/CodeWorkJava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +88,8 @@
       <workItem from="1745077932005" duration="10476000" />
       <workItem from="1745165001525" duration="622000" />
       <workItem from="1745166773662" duration="7733000" />
-      <workItem from="1745178758450" duration="2968000" />
+      <workItem from="1745178758450" duration="4394000" />
+      <workItem from="1745259684084" duration="3527000" />
     </task>
     <servers />
   </component>
